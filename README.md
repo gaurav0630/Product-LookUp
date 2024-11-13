@@ -9,6 +9,9 @@ A simple React application that allows users to search for products and view key
 - **Error Handling**: Displays an error message if no products are found or if an API error occurs.
 - **Responsive Design**: Styled with Material-UI components for a modern and consistent look.
 
+## Live Demo
+Check out the live demo of the application [here](https://product-lookup-bygaurav.netlify.app).
+
 ## Dependencies
 - [React](https://reactjs.org/) - JavaScript library for building user interfaces.
 - [Material-UI](https://mui.com/) - React component library for UI design.
