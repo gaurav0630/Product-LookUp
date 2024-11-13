@@ -22,7 +22,7 @@ Make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.co
 ### Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/product-lookup-tool.git
+   git clone https://github.com/gaurav0630/Product-LookUp.git
    cd product-lookup-tool
    ```
 
